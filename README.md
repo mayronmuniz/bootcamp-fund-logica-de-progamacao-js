@@ -41,10 +41,10 @@ Você pode acessar a aplicação rodando diretamente no seu navegador através d
 Caso queira baixar o código para estudar ou modificar:
 
 # Clone este repositório
-git clone [https://github.com/mayronmuniz/bootcamp-fund-logica-de-progamacao-js.git](https://github.com/mayronmuniz/bootcamp-fund-logica-de-progamacao-js.git)
+git clone [https://github.com/mayronmuniz/bootcamp-fund-logica-de-progamacao-classificador-de-heroi-js.git](https://github.com/mayronmuniz/bootcamp-fund-logica-de-progamacao-classificador-de-heroi-js.git)
 
 # Acesse a pasta do projeto
-cd bootcamp-fund-logica-de-progamacao-js
+cd bootcamp-fund-logica-de-progamacao-classificador-de-heroi-js
 
 # Abra o arquivo index.html no seu navegador
 
