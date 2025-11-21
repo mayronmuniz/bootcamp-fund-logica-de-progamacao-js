@@ -34,7 +34,8 @@ Modo "Clamar XP": Um simulador de grind que utiliza loops para aumentar o XP aut
 
 Você pode acessar a aplicação rodando diretamente no seu navegador através do GitHub Pages:
 
-🔗 Clique aqui para acessar o Projeto Online
+🔗 Clique aqui para acessar o Projeto Online 
+[https://mayronmuniz.github.io/bootcamp-fund-logica-de-progamacao-classificador-de-heroi-js/]
 
 💻 Rodando Localmente (Opcional)
 
